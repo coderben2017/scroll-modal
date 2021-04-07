@@ -1,7 +1,7 @@
 {
   "name": "scroll-modal",
   "description": "一个支持卷轴式展开、关闭的Vue弹窗组件",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "coderben <coderben2016@126.com>",
   "license": "MIT",
   "private": false,
