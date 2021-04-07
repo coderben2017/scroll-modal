@@ -7,7 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'scroll-modal.min.js',
-    library: "xEleTable",
+    library: "scroll-modal",
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
